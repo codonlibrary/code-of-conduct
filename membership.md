@@ -16,4 +16,4 @@ Former members of Codon:
 - Pantelis Hadjipantelis (hadjipanteliscg)
 
 ***
-[Go to next chapter: Structure of membership in the committee](reports.md) :point_right:
+[Go to next chapter: Report handling procedure](reports.md) :point_right:

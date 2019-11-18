@@ -1,4 +1,5 @@
 :point_left: [Come back to index](README.md)
+
 This document should be updated whenever a change is made to any part of the documentation on this repository. This is to transparently show how and what changes are made without users having to trail through the commit history.
 
 ### Template
