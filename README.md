@@ -8,10 +8,6 @@ Please use the table of contents to navigate Codon Code of Conduct.
 ## Table of Contents
 - [Structure of membership in the committee](membership.md)
 - [Report handling procedure](reports.md)
-- [Communications guidelines](communications.md)
-- [Record-keeping](records.md)
-- [Transparency](transparency.md)
-- [Statistics](statistics.md)
 
 ## Other
 - [Contributing to this document](CONTRIBUTING.md)

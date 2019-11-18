@@ -3,11 +3,17 @@
 # Codon Code of Conduct
 ## Structure of membership in the committee
 
-### Current members of the committee:
-- Name
+The current structure of our team is made up of the following people:
 
-### Past members of the committee:
-- Name
+- Project Codon (Admin Account)
+- George Robertson (georgeRobertson)
+- Liam-FN
+- Murdo (murd0)
+- NatashaChetwynd
+- PaulEllingham
+
+Former members of Codon:
+- Pantelis Hadjipantelis (hadjipanteliscg)
 
 ***
-[Go to next chapter: Structure of membership in the committee](membership.md) :point_right:
+[Go to next chapter: Structure of membership in the committee](reports.md) :point_right:
