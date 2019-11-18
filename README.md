@@ -1,5 +1,5 @@
 # Codon Code of Conduct
-On (date to be agreed), Codon adopted a Code of Conduct. This documentation aims to transparently decribe how Project Codon committee enforces the Code of Conduct and how it all works behind the scenes.
+On 19/11/2019, Codon adopted a Code of Conduct. This documentation aims to transparently decribe how Project Codon committee enforces the Code of Conduct and how it all works behind the scenes.
 
 Currently Codon Code of Conduct is a work in progess. So please stand by...
 
