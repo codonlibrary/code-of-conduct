@@ -5,12 +5,12 @@
 
 The current structure of our team is made up of the following people:
 
-- Project Codon (Admin Account)
+- Project Codon (Shared Account)
 - George Robertson (georgeRobertson)
-- Liam-FN
+- Liam Fleming-Nicol (Liam-FN)
 - Murdo (murd0)
-- NatashaChetwynd
-- PaulEllingham
+- Natasha Chetwynd (NatashaChetwynd)
+- Paul Ellingham (PaulEllingham)
 
 Former members of Codon:
 - Pantelis Hadjipantelis (hadjipanteliscg)
